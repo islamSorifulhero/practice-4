@@ -24,3 +24,42 @@ header ul li a{
     text-decoration: none;
     color: white;
 }
+section{
+    background-color: rgb(96, 96, 242);
+    display: flex;
+}
+section div img{
+    margin: 50px;
+    margin-left: 100px;
+}
+section #main{
+    margin-top: 70px;
+}
+section div h1{
+    color: white;
+    font-size: 31px;
+}
+section div p{
+    font-size: 20px;
+}
+section div input{
+    width: 500px;
+    margin: 10px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
+section div button{
+    margin: 10px;
+    padding: 10px;
+    width: 240px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+section div .button-1{
+    background-color: aquamarine;
+}
+section div .button-2{
+    background-color: rgb(221, 187, 16);
+}
