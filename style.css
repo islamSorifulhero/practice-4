@@ -63,3 +63,9 @@ section div .button-1{
 section div .button-2{
     background-color: rgb(221, 187, 16);
 }
+#Product h3{
+    text-align: center;
+    margin-top: 100px;
+    letter-spacing: 5px;
+    font: bolder;
+}
