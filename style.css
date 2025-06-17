@@ -109,3 +109,7 @@ section div .button-2{
     position: relative;
     margin-left: -378px;
 }
+.icons{
+    background-color: aqua;
+    height: 300px;
+}
